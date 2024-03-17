@@ -1,1 +1,2 @@
-# PRODIGY_DS_05-main
+# PRODIGY_DS_05
+Traffic Accidents Classifier using Python
